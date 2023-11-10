@@ -1,3 +1,4 @@
+#include <string.h>
 #include "cache.h"
 
 static int cache_name_compare(const char *name1, int len1, const char *name2, int len2)
